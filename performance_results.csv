@@ -1,8 +1,20 @@
 
 Algorithm,Input Order,Records,Execution Time (ms),Peak Memory (KiB)
-Merge Sort,sorted,5000,6.362,97.7
-Quicksort,sorted,5000,1.984,118.8
-Merge Sort,reverse sorted,5000,6.091,97.7
-Quicksort,reverse sorted,5000,2.344,118.8
-Merge Sort,random,5000,8.127,82.1
-Quicksort,random,5000,2.967,155.8
+Merge Sort,sorted,100,0.06,2.0
+Quicksort,sorted,100,0.039,2.6
+Merge Sort,reverse sorted,100,0.065,2.0
+Quicksort,reverse sorted,100,0.039,2.6
+Merge Sort,random,100,0.079,1.8
+Quicksort,random,100,0.055,4.9
+Merge Sort,sorted,1000,0.719,19.5
+Quicksort,sorted,1000,0.288,24.4
+Merge Sort,reverse sorted,1000,0.749,19.5
+Quicksort,reverse sorted,1000,0.285,24.4
+Merge Sort,random,1000,0.959,16.8
+Quicksort,random,1000,0.461,40.4
+Merge Sort,sorted,5000,3.832,97.7
+Quicksort,sorted,5000,1.258,118.8
+Merge Sort,reverse sorted,5000,4.109,97.6
+Quicksort,reverse sorted,5000,1.254,118.8
+Merge Sort,random,5000,5.711,81.9
+Quicksort,random,5000,1.988,155.8
